@@ -1,0 +1,9 @@
+import math
+print (math.ceil(3.4))
+print (math.floor(3.4))
+print (math.pow(3,9))
+print (math.sqrt(81))
+print (math.fabs(3.4))
+print (math.exp(3))
+print (math.sin(30))
+print (math.tan(90))
